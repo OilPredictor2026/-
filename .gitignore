@@ -1,0 +1,8 @@
+﻿# 截图和大文件
+screenshot*.png
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
